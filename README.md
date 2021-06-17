@@ -1,2 +1,2 @@
-# Javas_Project
+# Java_Project
 Java Project to expand my backend skillset
